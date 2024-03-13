@@ -1,0 +1,16 @@
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\bin\Debug\net8.0-windows\may_tinh.exe
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\bin\Debug\net8.0-windows\may_tinh.deps.json
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\bin\Debug\net8.0-windows\may_tinh.runtimeconfig.json
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\bin\Debug\net8.0-windows\may_tinh.dll
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\bin\Debug\net8.0-windows\may_tinh.pdb
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\obj\Debug\net8.0-windows\may_tinh.Form1.resources
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\obj\Debug\net8.0-windows\may_tinh.csproj.GenerateResource.cache
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\obj\Debug\net8.0-windows\may_tinh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\obj\Debug\net8.0-windows\may_tinh.AssemblyInfoInputs.cache
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\obj\Debug\net8.0-windows\may_tinh.AssemblyInfo.cs
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\obj\Debug\net8.0-windows\may_tinh.csproj.CoreCompileInputs.cache
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\obj\Debug\net8.0-windows\may_tinh.dll
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\obj\Debug\net8.0-windows\refint\may_tinh.dll
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\obj\Debug\net8.0-windows\may_tinh.pdb
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\obj\Debug\net8.0-windows\may_tinh.genruntimeconfig.cache
+C:\Users\ROGER.ASUS\source\repos\may_tinh\may_tinh\obj\Debug\net8.0-windows\ref\may_tinh.dll
